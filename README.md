@@ -1,6 +1,4 @@
-# Audit-Portfolio
-# 📊 Financial Statement Audit Portfolio
-
+#  📊 Financial Statement Audit Portfolio
 > **Author:** Kuljira Pulkham
 
 A portfolio showcasing audit working papers, financial statement analysis, and Microsoft Excel projects developed to strengthen practical skills for an Audit Associate role.
